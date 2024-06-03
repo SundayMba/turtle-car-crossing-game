@@ -1,6 +1,6 @@
 # Turtle Car Crossing Game
 #### Video Demo:  <https://youtu.be/xRBp6yAYCm0>
-#### Description: Turtle Car Crossing Game Using Turtle Python Module
+#### Description: Turtle Car Crossing Game Using Python Turtle Module
 
 ## Projects files
 1. project.py:
@@ -39,3 +39,9 @@
     this file contains the required module for execution of this project locally.
 6. text_project.py:
     this file contains the test functions 
+
+### Starting the Game
+    + clone the repository by execuating 
+    ``` git clone <repository name> ```
+    + execuate the following python command
+    ``` python3 project.py ```
