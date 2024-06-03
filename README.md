@@ -42,6 +42,10 @@
 
 ### Starting the Game
     + clone the repository by execuating 
-    ``` git clone <repository name> ```
+    ```
+    git clone <repository name>
+    ```
     + execuate the following python command
-    ``` python3 project.py ```
+    ```
+    python3 project.py
+    ```
